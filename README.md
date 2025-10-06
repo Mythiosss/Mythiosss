@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Mythios  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=💻+SMK+Software+Engineering+Student;🚀+Aspiring+Game+Developer;🎮+Valorant+Radiant+Peak;🌏+Dreaming+to+Work+in+Japan" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=💻+SMK+Software+Engineering+Student;🚀+Aspiring+Game+Designer;🌏+Dreaming+to+Work+in+Japan" />
 </p>
 
 ---
