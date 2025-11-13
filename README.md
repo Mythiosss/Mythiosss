@@ -39,9 +39,9 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://discord.com/users/yourdiscordid"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.instagram.com/your-ig/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://discord.com/users/mythioss"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <a href="https://www.linkedin.com/in/sharlyf-rajashatara-0b6192324/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.instagram.com/mythiosgg/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
 ---
